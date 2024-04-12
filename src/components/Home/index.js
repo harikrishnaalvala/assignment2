@@ -1171,8 +1171,8 @@ const Home = () => {
     <div className="d-flex justify-content-between align-items-center">
       <div className="d-none d-md-block ">
         <div className="d-flex align-items-center ">
-          <p className="user-profile-char-p">A</p>
-          <p className="user-name-p">Aman Kumar</p>
+          <p className="user-profile-char-p">H</p>
+          <p className="user-name-p">Harikrishna</p>
         </div>
       </div>
       <div className="input-container ml-auto">
